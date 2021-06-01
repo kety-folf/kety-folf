@@ -10,6 +10,6 @@ welcome to my github profile this is where you can find programs I am working on
       twitter:[@ketyfolf](https://www.twitter.com/ketyfolf)
 
 - Projects I am working on
-- E2E encrypted chat app [FluffChat client](https://github.com/kety-folf/fluffchat-client) [Fluffchat Server](https://github.com/kety-folf/fluffchat-Server)
+- E2E encrypted chat app [FluffChat client](https://github.com/kety-folf/fluffchat-client),  [Fluffchat Server](https://github.com/kety-folf/fluffchat-Server)
 - Discord bot(not being worked on until I find new things to add
 
