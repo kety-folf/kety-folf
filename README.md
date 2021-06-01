@@ -1,7 +1,7 @@
 ### Hewwo 
 welcome to my github profile this is where you can find programs I am working on like Fluffchat and my discord bot
-
-![](https://github.com/kety-folf/kety-folf/blob/main/IMG_0491%20(1).JPG=400x400)
+<img src="https://github.com/kety-folf/kety-folf/blob/main/IMG_0491%20(1).JPG" alt="drawing" width="400" height="400"/>
+<!--![](https://github.com/kety-folf/kety-folf/blob/main/IMG_0491%20(1).JPG=400x400)-->
 <!--
 **kety-folf/kety-folf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
