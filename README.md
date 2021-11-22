@@ -11,5 +11,6 @@ welcome to my github profile this is where you can find programs I am working on
 
 - Projects I am working on
 - E2E encrypted chat app [FluffChat client](https://github.com/kety-folf/fluffchat-client),  [Fluffchat Server](https://github.com/kety-folf/fluffchat-Server)
+- covid certificate verifcation app for android
 - Discord bot(not being worked on until I find new things to add
 
