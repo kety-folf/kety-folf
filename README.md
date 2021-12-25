@@ -14,3 +14,6 @@ welcome to my github profile this is where you can find programs I am working on
 - covid certificate verifcation app for android
 - Discord bot(not being worked on until I find new things to add
 
+# user stats
+[![Kety's GitHub stats](https://github-readme-stats.vercel.app/api?username=kety-folf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kety-folf)](https://github.com/anuraghazra/github-readme-stats)
