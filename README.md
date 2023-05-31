@@ -17,3 +17,7 @@ welcome to my github profile this is where you can find programs I am working on
 # user stats
 [![Kety's GitHub stats](https://github-readme-stats.vercel.app/api?username=kety-folf&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kety-folf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=KetyFolf)
+-->
